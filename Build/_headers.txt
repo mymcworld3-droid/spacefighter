@@ -1,0 +1,14 @@
+/*
+  Access-Control-Allow-Origin: *
+
+/Build/*.wasm
+  Content-Type: application/wasm
+  Access-Control-Allow-Origin: *
+
+/Build/*.data
+  Content-Type: application/octet-stream
+  Access-Control-Allow-Origin: *
+
+/Build/*.js
+  Content-Type: application/javascript
+  Access-Control-Allow-Origin: *
